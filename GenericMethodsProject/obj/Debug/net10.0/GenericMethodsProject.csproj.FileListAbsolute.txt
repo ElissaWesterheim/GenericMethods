@@ -1,0 +1,15 @@
+C:\Users\aries\source\repos\GenericMethods\GenericMethodsProject\bin\Debug\net10.0\GenericMethodsProject.exe
+C:\Users\aries\source\repos\GenericMethods\GenericMethodsProject\bin\Debug\net10.0\GenericMethodsProject.deps.json
+C:\Users\aries\source\repos\GenericMethods\GenericMethodsProject\bin\Debug\net10.0\GenericMethodsProject.runtimeconfig.json
+C:\Users\aries\source\repos\GenericMethods\GenericMethodsProject\bin\Debug\net10.0\GenericMethodsProject.dll
+C:\Users\aries\source\repos\GenericMethods\GenericMethodsProject\bin\Debug\net10.0\GenericMethodsProject.pdb
+C:\Users\aries\source\repos\GenericMethods\GenericMethodsProject\obj\Debug\net10.0\GenericMethodsProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aries\source\repos\GenericMethods\GenericMethodsProject\obj\Debug\net10.0\GenericMethodsProject.AssemblyInfoInputs.cache
+C:\Users\aries\source\repos\GenericMethods\GenericMethodsProject\obj\Debug\net10.0\GenericMethodsProject.AssemblyInfo.cs
+C:\Users\aries\source\repos\GenericMethods\GenericMethodsProject\obj\Debug\net10.0\GenericMethodsProject.csproj.CoreCompileInputs.cache
+C:\Users\aries\source\repos\GenericMethods\GenericMethodsProject\obj\Debug\net10.0\GenericMethodsProject.sourcelink.json
+C:\Users\aries\source\repos\GenericMethods\GenericMethodsProject\obj\Debug\net10.0\GenericMethodsProject.dll
+C:\Users\aries\source\repos\GenericMethods\GenericMethodsProject\obj\Debug\net10.0\refint\GenericMethodsProject.dll
+C:\Users\aries\source\repos\GenericMethods\GenericMethodsProject\obj\Debug\net10.0\GenericMethodsProject.pdb
+C:\Users\aries\source\repos\GenericMethods\GenericMethodsProject\obj\Debug\net10.0\GenericMethodsProject.genruntimeconfig.cache
+C:\Users\aries\source\repos\GenericMethods\GenericMethodsProject\obj\Debug\net10.0\ref\GenericMethodsProject.dll

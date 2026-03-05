@@ -1,0 +1,5 @@
+C:\Users\aries\source\repos\GenericMethods\GenericMethodsProject\obj\Debug\net10.0\BiblioInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aries\source\repos\GenericMethods\GenericMethodsProject\obj\Debug\net10.0\BiblioInheritance.AssemblyInfoInputs.cache
+C:\Users\aries\source\repos\GenericMethods\GenericMethodsProject\obj\Debug\net10.0\BiblioInheritance.AssemblyInfo.cs
+C:\Users\aries\source\repos\GenericMethods\GenericMethodsProject\obj\Debug\net10.0\BiblioInheritance.csproj.CoreCompileInputs.cache
+C:\Users\aries\source\repos\GenericMethods\GenericMethodsProject\obj\Debug\net10.0\BiblioInheritance.sourcelink.json
